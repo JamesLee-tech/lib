@@ -17,5 +17,11 @@
             <artifactId>guice</artifactId>
         </dependency>
     </dependencies>
+	
+	<repository>
+		<id>guice</id>
+		<name>guice</name>
+		<url>https://raw.github.com/JamesLee-tech/lib/master/</url>
+	</repository>
 
 </project>
